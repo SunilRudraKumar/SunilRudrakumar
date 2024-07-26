@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil</h1>
-<h3 align="center">SOFTWARE ENGINEER Web Development | Backend Development | Front-End Development | Blockchain Engineering Software Developer with 3 years of experience, specializing in full stack development, machine learning, and backend systems with an expertise that spans a broad range of programming languages, frameworks, and DevOps practices, used to build robust and scalable web applications. Able to improve processes and solve complex challenges, delivering safe, secure systems and designing software solutions that meet business objectives and the humanistic needs of users.</h3>
+<h3 align="center">SOFTWARE ENGINEER Web Development | Backend Development | Front-End Development | Blockchain Engineering 
+  
+Software Developer with 3 years of experience, specializing in full stack development, machine learning, and backend systems with an expertise that spans a broad range of programming languages, frameworks, and DevOps practices, used to build robust and scalable web applications. Able to improve processes and solve complex challenges, delivering safe, secure systems and designing software solutions that meet business objectives and the humanistic needs of users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilrudrakumar&label=Profile%20views&color=0e75b6&style=flat" alt="sunilrudrakumar" /> </p>
 
