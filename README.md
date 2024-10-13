@@ -61,9 +61,9 @@ I'm a Software Developer with 3 years of experience, specializing in full stack 
 </p>
 
 ## GitHub Stats
-<!-- GitHub stats cards -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrudrakumar&show_icons=true&locale=en&layout=compact" alt="sunilrudrakumar" /></p>
+<!-- GitHub stats cards 
+<!-- GitHub stats cards --><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrudrakumar&show_icons=true&locale=en&layout=compact" alt="sunilrudrakumar" /></p>
 
 <!-- GitHub stats cards --><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilrudrakumar&show_icons=true&locale=en" alt="sunilrudrakumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrudrakumar&" alt="sunilrudrakumar" /></p>
+<!-- GitHub stats cards <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrudrakumar&" alt="sunilrudrakumar" /></p>-->
