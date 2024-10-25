@@ -59,9 +59,9 @@ I'm a Software Developer with 3 years of experience, specializing in full stack 
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>-->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-## LeetCode Stats
+## LeetCode Stats <!-- Option 1: Using LeetCode Stats Card --> ![LeetCode Stats](https://leetcode.card.workers.dev/_sunilkumar?theme=dark&font=baloo&extension=activity)
 
-[![LeetCode user sunilkumar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsunilkumar&logo=leetcode&logoColor=yellow)](https://leetcode.com/sunilkumar/)
+
 
 ## GitHub Stats
 <!-- GitHub stats cards -->
