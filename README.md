@@ -61,15 +61,7 @@ I'm a Software Developer with 3 years of experience, specializing in full stack 
 </p>
 ## LeetCode Stats
 
-<!-- Option 1: Using LeetCode Stats Card -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/sunilkumar?theme=dark&font=baloo)
-
-<!-- Option 2: Using LeetCode Stat Card -->
-![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=sunilkumar&theme=dark)
-
-<!-- Option 3: Using LeetCode Badge -->
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sunilkumar)](https://github.com/KnlnKS/leetcode-stats)
-
+[![LeetCode user sunilkumar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsunilkumar&logo=leetcode&logoColor=yellow)](https://leetcode.com/sunilkumar/)
 
 ## GitHub Stats
 <!-- GitHub stats cards -->
