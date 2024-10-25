@@ -59,8 +59,18 @@ I'm a Software Developer with 3 years of experience, specializing in full stack 
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>-->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sunilrudrakumar?theme=dark&font=baloo&extension=activity)](https://leetcode.com/sunilrudrakumar)
+## LeetCode Stats
+
+<!-- Option 1: Using LeetCode Stats Card -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/sunilkumar?theme=dark&font=baloo)
+
+<!-- Option 2: Using LeetCode Stat Card -->
+![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=sunilkumar&theme=dark)
+
+<!-- Option 3: Using LeetCode Badge -->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sunilkumar)](https://github.com/KnlnKS/leetcode-stats)
+
+
 ## GitHub Stats
 <!-- GitHub stats cards -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrudrakumar&show_icons=true&locale=en&layout=compact" alt="sunilrudrakumar" /></p>
