@@ -60,7 +60,8 @@ I'm a Software Developer with 3 years of experience, specializing in full stack 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 ## Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sunilrudrakumar&show_icons=true&locale=en&layout=compact](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.card.workers.dev/_sunilkumar?theme=default&font=baloo&extension=activity)" alt="sunilrudrakumar" /></p>
 
 ## GitHub Stats
 <!-- GitHub stats cards -->
