@@ -59,6 +59,8 @@ I'm a Software Developer with 3 years of experience, specializing in full stack 
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>-->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 ## GitHub Stats
 <!-- GitHub stats cards -->
