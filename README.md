@@ -25,7 +25,7 @@ Most Used Languages
 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunilrudrakumar&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrudrakumar" alt="GitHub Streak" /> </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sunilrudrakumar)](https://git.io/streak-stats)
 Contact & Social Links
 Email: sunilrudrakumar@gmail.com
 <p align="left"> <a href="https://twitter.com/sunilrudrakumar" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a> <a href="https://linkedin.com/in/sunilrudrakumar" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> </p>
