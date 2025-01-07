@@ -22,10 +22,10 @@ LeetCode
 <p align="center"> <img src="https://leetcode.card.workers.dev/_sunilkumar?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats"/> </p>
 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrudrakumar&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /> </p>
-GitHub Stats
+<!-- GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunilrudrakumar&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=sunilrudrakumar&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=sunilrudrakumar&show_icons=true&locale=en" alt="GitHub Stats" /> </p> -->
 
 Contact & Social Links
 Email: sunilrudrakumar@gmail.com
