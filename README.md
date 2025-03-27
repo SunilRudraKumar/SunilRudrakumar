@@ -1,33 +1,102 @@
-<p align="center">Hi there, I'm Sunil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
-<p align="center"> <strong>Software Engineer | Web Developer | Backend Developer | Frontend Developer | Blockchain Engineer</strong> </p> <p align="center"> <a href="https://komarev.com/ghpvc/?username=sunilrudrakumar"> <img src="https://komarev.com/ghpvc/?username=sunilrudrakumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </a> &nbsp; <a href="https://twitter.com/sunilrudrakumar"> <img src="https://img.shields.io/twitter/follow/sunilrudrakumar?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> </a> </p>
-About Me
-I'm a Software Developer with 3 years of experience, specializing in full-stack development, machine learning, and backend systems. My expertise spans a broad range of programming languages, frameworks, and DevOps practices, which I use to build robust and scalable web applications. I focus on:
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/rust-hero.png" style="max-width: 100%;" alt="Welcome to my Rust Portfolio" />
+  <br /><br />
+  <img height="50" alt="I code in Rust" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/rust-note.svg" />
+  <br /><br />
+</div>
 
-Improving processes and solving complex challenges.
-Delivering safe and secure systems.
-Designing software solutions that meet business objectives and the humanistic needs of users.
-Trophies & Achievements
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=sunilrudrakumar&theme=onedark" alt="GitHub Trophies" /> </a> </p>
-Technical Skills
-Frontend
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" /> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" /> </p>
-Backend
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" /> </p>
-Databases
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" /> </p>
-DevOps & Cloud
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" /> </p>
-Coding & GitHub Stats
-LeetCode
-<p align="center"> <img src="https://leetcode.card.workers.dev/_sunilkumar?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats"/> </p>
-Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilrudrakumar&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /> </p>
-<!-- GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunilrudrakumar&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
-GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=sunilrudrakumar&show_icons=true&locale=en" alt="GitHub Stats" /> </p> -->
+<!-- Social Links -->
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://yourwebsite.com">
+        <strong>Visit my Personal Website</strong>
+        <br /><br />
+        <p>
+          <img alt="Globe" height="80" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/globe-rust.gif">
+        </a>
+        </p>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=rust_tutorial" target="_blank">
+        <strong>Watch Rust Tutorials</strong>
+        <br /><br />
+        <p>
+          <img height="100" alt="Rust Videos" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/rust-music.gif">
+        </a>
+        </p>
+    </td>
+  </tr>
+</table>
 
-Contact & Social Links
-Email: sunilrudrakumar@gmail.com
-<p align="left"> <a href="https://twitter.com/sunilrudrakumar" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a> <a href="https://linkedin.com/in/sunilrudrakumar" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> </p>
-<p align="center"> <em>“Quality means doing it right when no one is looking.” – Henry Ford</em> </p>
+<div align="center">
+  <a href="https://github.com/yourusername/yourrepo/issues/new">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/guestbook-rust.svg" alt="Sign my guestbook">
+  </a>
+</div>
+
+<!-- Guestbook -->
+| Name | Date | Message |
+| --- | --- | --- |
+| [Alice](https://github.com/alice) | 4/1/2025, 10:00 AM | Loving the Rust vibes! |
+| [Bob](https://github.com/bob) | 4/1/2025, 11:15 AM | Awesome portfolio, keep it up! |
+| [Charlie](https://github.com/charlie) | 4/2/2025, 2:30 PM | Rust is the future! |
+
+<!-- Footer -->
+<div align="center">
+  <img height="120" alt="Thanks for stopping by" width="100%" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/marquee-rust.svg" />
+  <br />
+  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/notepad-rust.gif" alt="Created with VSCode" height="30" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/rustacean.gif" alt="Rustacean" height="30" />
+</div>
+
+---
+
+## About Me
+
+<p align="center">
+  Hi there, I'm Sunil – a passionate Rust developer who loves crafting safe, efficient, and concurrent systems. I specialize in backend systems, high-performance computing, and building robust command-line tools.
+</p>
+
+---
+
+## Technical Skills
+
+### Rust & Systems Programming
+<p align="center">
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="80" height="80" />
+</p>
+
+### Other Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+</p>
+
+### DevOps & Infrastructure
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+</p>
+
+---
+
+## Contact & Social Links
+
+<p align="center">
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedinprofile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+<p align="center">
+  Email: [sunil@example.com](mailto:sunil@example.com)
+</p>
+
+<p align="center"><em>"Code is poetry—and Rust writes the verses."</em></p>
